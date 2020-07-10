@@ -1,0 +1,97 @@
+,author_name,h-index,earliest_year,academic_age,jounal_number
+0,"Akyildiz, Ian Fuat.csv",97,1985,35,134
+1,"Allen, Gabrielle D..csv",99,1980,40,339
+2,"Anderson, Brian D.O..csv",71,1965,55,171
+3,"Balakrishnan, Hari.csv",74,1995,25,107
+4,"Baraniuk, Richard G..csv",80,1989,31,156
+5,"Ben Letaief, Khaled.csv",64,1991,29,118
+6,"Bengio, Yoshua.csv",90,1988,32,129
+7,"Bertsimas, Dimitris J..csv",52,1988,32,73
+8,"Boneh, Dan.csv",79,1993,27,71
+9,"Bovik, Alan Conrad.csv",81,1982,38,167
+10,"Boyd, Stephen P..csv",83,1982,38,158
+11,"Burgard, Wolfram.csv",77,1987,33,98
+12,"Campbell, Andrew Thomas.csv",55,1992,28,116
+13,"Chang., Shihfu.csv",80,1991,29,170
+14,"Chellappa, Rama.csv",68,1980,40,153
+15,"Chen, Guanrong.csv",126,1986,34,315
+16,"Cohen, Laurent D..csv",31,1988,32,75
+17,"Cohen, William W..csv",47,1992,28,109
+18,"Cootes, Timothy F..csv",48,1992,28,77
+19,"Cremers, Daniel.csv",61,1999,21,96
+20,"Dally, William J..csv",59,1980,40,96
+21,"Davis, Larry Steven.csv",82,1975,45,180
+22,"Dorigo, Marco.csv",60,1991,29,104
+23,"Dumais, Susan T..csv",62,1975,45,93
+24,"Freeman, William T..csv",76,1990,30,78
+25,"Giannakis, Georgios B..csv",107,1986,34,206
+26,"Grossmann, Ignacio E..csv",94,1978,42,103
+27,"Guibas, Leo J..csv",82,1975,45,158
+28,"Haas, Harald.csv",67,1998,22,149
+29,"Han, Jiawei.csv",114,1985,35,249
+30,"Henzinger, Thomas A.A..csv",72,1989,31,110
+31,"Hespanha, Joao Pedro.csv",60,1996,24,109
+32,"Hinton, Geoffrey E..csv",87,1979,41,92
+33,"Huang, Thomas S..csv",106,1964,56,300
+34,"Jain, Anil K..csv",131,1972,48,187
+35,"Jordan, Michael I..csv",99,1989,31,157
+36,"Kailath, Thomas.csv",74,1960,60,110
+37,"Kanade, Takeo.csv",93,1971,49,203
+38,"Kumar, Vipin P..csv",57,1981,39,177
+39,"Lewis, Frank L.T..csv",87,1978,42,226
+40,"Ma, Weiying.csv",68,1994,26,110
+41,"Magnenat Thalmann, Nadia Magnenat.csv",47,1977,43,169
+42,"Mangasarian, Olvi L..csv",53,1960,60,55
+43,"Manning, Christopher D..csv",63,2000,20,104
+44,"Mataric, Maja J..csv",59,1990,30,105
+45,"McGuinness, Deborah L..csv",25,1988,32,63
+46,"Mitchell, John C..csv",55,1981,39,88
+47,"Moore, Jason H..csv",70,1993,27,196
+48,"Morari, Manfred.csv",90,1977,43,158
+49,"Muller, Klaus Robert.csv",87,1992,28,161
+50,"Musen, Mark A..csv",53,1986,34,104
+51,"Ng, Andrew Y..csv",83,1995,25,79
+52,"Ni, Lionel M..csv",61,1979,41,191
+53,"Osher, Stanley Joel.csv",87,1967,53,117
+54,"Pal, Sankar Kumar.csv",56,1977,43,121
+55,"Pedrycz, Witold.csv",81,1980,40,339
+56,"Perrig, Adrian.csv",69,2000,20,124
+57,"Prade, Henri M..csv",78,1978,42,138
+58,"Rexford, Jennifer L..csv",68,1990,30,123
+59,"Sangiovanni-Vincentelli, Alberto L..csv",73,1973,47,246
+60,"Sastry, Shankar S..csv",83,1980,40,181
+61,"Satyanarayanan, Mahadev.csv",51,1980,40,113
+62,"Schiele, Bernt.csv",75,1994,26,70
+63,"Schmid, Cordelia.csv",89,1993,27,51
+64,"Schuller, Bjorn W..csv",66,2001,19,219
+65,"Sejnowski, Terrence Joseph.csv",114,1974,46,182
+66,"Shah, Mubarak A..csv",84,1984,36,111
+67,"Shen X., Xuemin.csv",88,1989,31,249
+68,"Shenker, Scott J..csv",96,1987,33,131
+69,"Shneiderman, Ben.csv",75,1971,49,180
+70,"Simon, Herbert A..csv",79,1941,79,103
+71,"Smola, Alex Johannes.csv",77,1997,23,101
+72,"Song, Dawn.csv",64,1999,21,65
+73,"Spong, Mark William.csv",59,1981,39,73
+74,"Stankovic, John A..csv",75,1978,42,203
+75,"Stoica, Petre.csv",80,1976,44,125
+76,"Szalay, Alexander S..csv",109,1948,72,104
+77,"Szeliski, Richard.csv",82,1985,35,63
+78,"Tanenbaum, Andrew S..csv",34,1973,47,98
+79,"Tang, Xiaoou.csv",89,1995,25,76
+80,"Tao, Dacheng.csv",96,2002,18,175
+81,"Tarjan, Robert Endre.csv",75,1971,49,84
+82,"Thrun, Sebastian B..csv",93,1990,30,81
+83,"Ullman, Jeffrey David.csv",61,1967,53,73
+84,"Vaidyanathan, Sundarapandian.csv",102,1999,21,88
+85,"van der Aalst, Wil M.P..csv",97,1993,27,195
+86,"van der Bruggen, Bart.csv",74,1997,23,157
+87,"Varghese, George.csv",55,1987,33,86
+88,"Vetterli, Martin.csv",80,1983,37,129
+89,"Wang, Zidong.csv",109,1994,26,166
+90,"Wetherall, David J..csv",55,1994,26,67
+91,"Wu, Jie.csv",68,1988,32,317
+92,"Yager, Ronald R..csv",84,1975,45,186
+93,"Zadeh, Lotfi A..csv",57,1949,71,135
+94,"Zhang, David.csv",93,1984,36,246
+95,"Zisserman, Andrew P..csv",109,1983,37,119

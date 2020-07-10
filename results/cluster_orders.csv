@@ -1,0 +1,95 @@
+,name,academic_age,h-index,co-author,paper_num,cite_num,labels
+0,"Akyildiz, Ian Fuat",35,97,312,533,68097,1
+1,"Allen, Gabrielle D.",40,99,1120,1216,46947,3
+2,"Anderson, Brian D.O.",55,71,392,952,22169,3
+3,"Balakrishnan, Hari",25,74,230,196,45531,2
+4,"Baraniuk, Richard G.",31,80,355,450,32159,2
+5,"Ben Letaief, Khaled",29,64,317,671,20524,2
+6,"Bengio, Yoshua",32,90,538,373,104614,1
+7,"Bertsimas, Dimitris J.",32,52,170,214,13277,0
+8,"Boneh, Dan",27,79,285,212,34018,2
+9,"Bovik, Alan Conrad",38,81,388,699,58380,3
+10,"Boyd, Stephen P.",38,83,327,394,45329,2
+11,"Burgard, Wolfram",33,77,430,482,30916,2
+12,"Campbell, Andrew Thomas",28,55,287,207,13911,0
+13,"Chang., Shihfu",29,80,559,482,25453,2
+14,"Chellappa, Rama",40,68,393,458,19572,0
+15,"Chen, Guanrong",34,126,1031,1409,69436,3
+16,"Cohen, Laurent D.",32,31,133,190,6609,0
+17,"Cohen, William W.",28,47,169,201,8294,0
+18,"Cootes, Timothy F.",28,48,231,206,19748,0
+19,"Cremers, Daniel",21,61,392,396,17792,2
+20,"Dally, William J.",40,59,281,249,20229,0
+21,"Davis, Larry Steven",45,82,703,568,29252,3
+22,"Dorigo, Marco",29,60,225,274,34935,2
+23,"Dumais, Susan T.",45,62,189,162,24216,0
+24,"Freeman, William T.",30,76,628,243,31691,2
+25,"Giannakis, Georgios B.",34,107,292,1084,45746,3
+26,"Grossmann, Ignacio E.",42,94,461,784,33119,3
+27,"Guibas, Leo J.",45,82,539,521,28556,3
+28,"Haas, Harald",22,67,392,543,22002,2
+29,"Han, Jiawei",35,114,853,789,60954,3
+30,"Henzinger, Thomas A.A.",31,72,275,435,24277,2
+31,"Hespanha, Joao Pedro",24,60,242,350,26100,2
+32,"Hinton, Geoffrey E.",41,87,172,221,138785,1
+33,"Huang, Thomas S.",56,106,916,1191,60927,3
+34,"Jain, Anil K.",48,131,528,746,84728,1
+35,"Jordan, Michael I.",31,99,440,395,67885,1
+36,"Kailath, Thomas",60,74,456,539,29141,0
+37,"Kanade, Takeo",49,93,555,583,49291,3
+38,"Kumar, Vipin P.",39,57,581,377,23491,0
+39,"Lewis, Frank L.T.",42,87,521,829,31570,3
+40,"Ma, Weiying",26,68,325,287,16999,2
+41,"Magnenat Thalmann, Nadia Magnenat",43,47,454,436,7386,0
+42,"Mangasarian, Olvi L.",60,53,38,150,10775,0
+43,"Manning, Christopher D.",20,63,232,187,28881,2
+44,"Mataric, Maja J.",30,59,195,270,13243,0
+45,"McGuinness, Deborah L.",32,25,415,185,3697,0
+46,"Mitchell, John C.",39,55,180,222,9499,0
+48,"Morari, Manfred",43,90,518,731,40950,3
+49,"Muller, Klaus Robert",28,87,531,470,38546,2
+50,"Musen, Mark A.",34,53,594,391,12554,0
+51,"Ng, Andrew Y.",25,83,354,193,57292,2
+52,"Ni, Lionel M.",41,61,383,461,16696,0
+53,"Osher, Stanley Joel",53,87,364,356,58051,1
+54,"Pal, Sankar Kumar",43,56,260,409,14247,0
+55,"Pedrycz, Witold",40,81,1037,1399,32837,3
+56,"Perrig, Adrian",20,69,281,258,27775,2
+57,"Prade, Henri M.",42,78,230,645,25969,3
+58,"Rexford, Jennifer L.",30,68,372,283,15956,2
+59,"Sangiovanni-Vincentelli, Alberto L.",47,73,758,845,21926,3
+60,"Sastry, Shankar S.",40,83,444,589,39647,3
+61,"Satyanarayanan, Mahadev",40,51,210,183,13642,0
+62,"Schiele, Bernt",26,75,301,289,23992,2
+63,"Schmid, Cordelia",27,89,346,225,55932,2
+64,"Schuller, Bjorn W.",19,66,700,636,17604,2
+65,"Sejnowski, Terrence Joseph",46,114,792,558,66571,1
+66,"Shah, Mubarak A.",36,84,346,381,30840,2
+67,"Shen X., Xuemin",31,88,831,1319,33698,3
+68,"Shenker, Scott J.",33,96,413,299,43105,2
+69,"Shneiderman, Ben",49,75,494,419,22009,0
+70,"Simon, Herbert A.",79,69,104,246,36621,0
+71,"Smola, Alex Johannes",23,77,313,241,41420,2
+72,"Song, Dawn",21,64,305,160,20224,2
+73,"Spong, Mark William",39,59,145,277,16464,0
+74,"Stankovic, John A.",42,75,364,421,25387,0
+75,"Stoica, Petre",44,80,285,718,30940,3
+77,"Szeliski, Richard",35,82,197,216,37011,2
+78,"Tanenbaum, Andrew S.",47,34,146,169,4170,0
+79,"Tang, Xiaoou",25,89,286,392,39089,2
+80,"Tao, Dacheng",18,96,1131,836,34603,3
+81,"Tarjan, Robert Endre",49,75,247,282,26715,0
+82,"Thrun, Sebastian B.",30,93,299,275,37632,2
+83,"Ullman, Jeffrey David",53,61,191,243,15607,0
+84,"Vaidyanathan, Sundarapandian",21,102,218,519,20805,2
+85,"van der Aalst, Wil M.P.",27,97,494,745,41570,3
+86,"van der Bruggen, Bart",23,74,906,576,21111,2
+87,"Varghese, George",33,55,275,168,11947,0
+88,"Vetterli, Martin",37,80,277,523,31876,2
+89,"Wang, Zidong",26,109,324,746,37253,3
+90,"Wetherall, David J.",26,55,157,112,11665,0
+91,"Wu, Jie",32,68,836,982,19890,3
+92,"Yager, Ronald R.",45,84,283,841,38078,3
+93,"Zadeh, Lotfi A.",71,57,155,260,103381,1
+94,"Zhang, David",36,93,683,769,39627,3
+95,"Zisserman, Andrew P.",37,109,391,467,69660,1

@@ -1,0 +1,98 @@
+,name,earliest_year,h-index,co-author,paper_num,cite_num
+0,"Akyildiz, Ian Fuat",1985,97,312,533,68097
+1,"Allen, Gabrielle D.",1980,99,1120,1216,46947
+2,"Anderson, Brian D.O.",1965,71,392,952,22169
+3,"Balakrishnan, Hari",1995,74,230,196,45531
+4,"Baraniuk, Richard G.",1989,80,355,450,32159
+5,"Ben Letaief, Khaled",1991,64,317,671,20524
+6,"Bengio, Yoshua",1988,90,538,373,104614
+7,"Bertsimas, Dimitris J.",1988,52,170,214,13277
+8,"Boneh, Dan",1993,79,285,212,34018
+9,"Bovik, Alan Conrad",1982,81,388,699,58380
+10,"Boyd, Stephen P.",1982,83,327,394,45329
+11,"Burgard, Wolfram",1987,77,430,482,30916
+12,"Campbell, Andrew Thomas",1992,55,287,207,13911
+13,"Chang., Shihfu",1991,80,559,482,25453
+14,"Chellappa, Rama",1980,68,393,458,19572
+15,"Chen, Guanrong",1986,126,1031,1409,69436
+16,"Cohen, Laurent D.",1988,31,133,190,6609
+17,"Cohen, William W.",1992,47,169,201,8294
+18,"Cootes, Timothy F.",1992,48,231,206,19748
+19,"Cremers, Daniel",1999,61,392,396,17792
+20,"Dally, William J.",1980,59,281,249,20229
+21,"Davis, Larry Steven",1975,82,703,568,29252
+22,"Dorigo, Marco",1991,60,225,274,34935
+23,"Dumais, Susan T.",1975,62,189,162,24216
+24,"Freeman, William T.",1990,76,628,243,31691
+25,"Giannakis, Georgios B.",1986,107,292,1084,45746
+26,"Grossmann, Ignacio E.",1978,94,461,784,33119
+27,"Guibas, Leo J.",1975,82,539,521,28556
+28,"Haas, Harald",1998,67,392,543,22002
+29,"Han, Jiawei",1985,114,853,789,60954
+30,"Henzinger, Thomas A.A.",1989,72,275,435,24277
+31,"Hespanha, Joao Pedro",1996,60,242,350,26100
+32,"Hinton, Geoffrey E.",1979,87,172,221,138785
+33,"Huang, Thomas S.",1964,106,916,1191,60927
+34,"Jain, Anil K.",1972,131,528,746,84728
+35,"Jordan, Michael I.",1989,99,440,395,67885
+36,"Kailath, Thomas",1960,74,456,539,29141
+37,"Kanade, Takeo",1971,93,555,583,49291
+38,"Kumar, Vipin P.",1981,57,581,377,23491
+39,"Lewis, Frank L.T.",1978,87,521,829,31570
+40,"Ma, Weiying",1994,68,325,287,16999
+41,"Magnenat Thalmann, Nadia Magnenat",1977,47,454,436,7386
+42,"Mangasarian, Olvi L.",1960,53,38,150,10775
+43,"Manning, Christopher D.",2000,63,232,187,28881
+44,"Mataric, Maja J.",1990,59,195,270,13243
+45,"McGuinness, Deborah L.",1988,25,415,185,3697
+46,"Mitchell, John C.",1981,55,180,222,9499
+47,"Moore, Jason H.",1993,70,1563,453,21238
+48,"Morari, Manfred",1977,90,518,731,40950
+49,"Muller, Klaus Robert",1992,87,531,470,38546
+50,"Musen, Mark A.",1986,53,594,391,12554
+51,"Ng, Andrew Y.",1995,83,354,193,57292
+52,"Ni, Lionel M.",1979,61,383,461,16696
+53,"Osher, Stanley Joel",1967,87,364,356,58051
+54,"Pal, Sankar Kumar",1977,56,260,409,14247
+55,"Pedrycz, Witold",1980,81,1037,1399,32837
+56,"Perrig, Adrian",2000,69,281,258,27775
+57,"Prade, Henri M.",1978,78,230,645,25969
+58,"Rexford, Jennifer L.",1990,68,372,283,15956
+59,"Sangiovanni-Vincentelli, Alberto L.",1973,73,758,845,21926
+60,"Sastry, Shankar S.",1980,83,444,589,39647
+61,"Satyanarayanan, Mahadev",1980,51,210,183,13642
+62,"Schiele, Bernt",1994,75,301,289,23992
+63,"Schmid, Cordelia",1993,89,346,225,55932
+64,"Schuller, Bjorn W.",2001,66,700,636,17604
+65,"Sejnowski, Terrence Joseph",1974,114,792,558,66571
+66,"Shah, Mubarak A.",1984,84,346,381,30840
+67,"Shen X., Xuemin",1989,88,831,1319,33698
+68,"Shenker, Scott J.",1987,96,413,299,43105
+69,"Shneiderman, Ben",1971,75,494,419,22009
+70,"Simon, Herbert A.",1941,69,104,246,36621
+71,"Smola, Alex Johannes",1997,77,313,241,41420
+72,"Song, Dawn",1999,64,305,160,20224
+73,"Spong, Mark William",1981,59,145,277,16464
+74,"Stankovic, John A.",1978,75,364,421,25387
+75,"Stoica, Petre",1976,80,285,718,30940
+76,"Szalay, Alexander S.",1948,109,1935,482,68190
+77,"Szeliski, Richard",1985,82,197,216,37011
+78,"Tanenbaum, Andrew S.",1973,34,146,169,4170
+79,"Tang, Xiaoou",1995,89,286,392,39089
+80,"Tao, Dacheng",2002,96,1131,836,34603
+81,"Tarjan, Robert Endre",1971,75,247,282,26715
+82,"Thrun, Sebastian B.",1990,93,299,275,37632
+83,"Ullman, Jeffrey David",1967,61,191,243,15607
+84,"Vaidyanathan, Sundarapandian",1999,102,218,519,20805
+85,"van der Aalst, Wil M.P.",1993,97,494,745,41570
+86,"van der Bruggen, Bart",1997,74,906,576,21111
+87,"Varghese, George",1987,55,275,168,11947
+88,"Vetterli, Martin",1983,80,277,523,31876
+89,"Wang, Zidong",1994,109,324,746,37253
+90,"Wetherall, David J.",1994,55,157,112,11665
+91,"Wu, Jie",1988,68,836,982,19890
+92,"Yager, Ronald R.",1975,84,283,841,38078
+93,"Zadeh, Lotfi A.",1949,57,155,260,103381
+94,"Zhang, David",1984,93,683,769,39627
+95,"Zisserman, Andrew P.",1983,109,391,467,69660
+96,1,1971,33,115,124,6610
