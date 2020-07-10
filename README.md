@@ -24,10 +24,10 @@
 - other_data 文件夹
     - 进行预测检验的学者数据
 
-- [paper_tex 文件夹](paper_tex/README.md)
+- [paper_tex 文件夹](paper_tex/)
     - 只放了论文的 .tex、.bib、所需的图片及最终 pdf 文件，模板为 [ElegantPaper](https://github.com/ElegantLaTeX/ElegantPaper) ![GitHub stars](https://img.shields.io/github/stars/ElegantLaTeX/ElegantPaper?style=social) 
 
-- [pre_slides 文件夹](pre_slides/README.md)
+- [pre_slides 文件夹](pre_slides/)
     - 只放了答辩展示的 .tex、.bib、所需的图片及最终 pdf 文件。
 
 - results 文件夹
